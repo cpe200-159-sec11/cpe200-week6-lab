@@ -1,4 +1,3 @@
-package cpe200Test;
 
 import cpe200.IUser;
 import cpe200.User;
