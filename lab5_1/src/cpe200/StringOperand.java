@@ -8,7 +8,5 @@ public class StringOperand implements IOperand {
     }
 
     @Override
-    public String getOperand() {
-        return operand;
-    }
+    public String getOperand() { return operand; }
 }
